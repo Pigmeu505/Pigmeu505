@@ -10,7 +10,7 @@
 
 🚀 In addition to development, I enjoy learning about cybersecurity and pentesting, and I'm also diving into the world of Unity and C# to create games. Outside of programming, I enjoy playing Valorant and watching movies and series to have fun!
 
-![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pigmeu505&show_icons=true&theme=tokyonight&hide_border=true&card_width=450)
+![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pigmeu505&show_icons=true&theme=tokyonight&hide_border=true&card_width=750)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pigmeu505&layout=compact&theme=tokyonight&hide_border=true&card_width=450)
 
 🔎 Always looking for challenges and new learning experiences!
