@@ -11,6 +11,8 @@ Hi My name is Renan Ferro
 🔎 Always looking for challenges and new learning experiences!
 
 ![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pigmeu505&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pigmeu505&layout=compact&theme=dracula)
+
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [rickferro505@gmail.com](mailto:rickferro505@gmail.com)
