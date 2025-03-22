@@ -13,7 +13,7 @@ Hi My name is Renan Ferro
 
 🔎 Always looking for challenges and new learning experiences!
 
-* 🌍  I'm based in Brasil
+* 🌍  I'm from in Brasil
 * ✉️  You can contact me at [rickferro505@gmail.com](mailto:rickferro505@gmail.com)
 * 🤝  I'm open to collaborating on Interesting projects to gain knowledge
 * ⚡  I'm creating a game in Unity
