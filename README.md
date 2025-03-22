@@ -1,13 +1,10 @@
 <div align="center" style="background: linear-gradient(45deg, #ff00f6, #560bad, #00f2ff); padding: 20px; border-radius: 10px;">
   <h1 style="color: white;">Hi My name is Renan Ferro 🚀</h1>
 </div>
-===================================================================================================================================
 
 <div align="center" style="background-color: #560bad; padding: 10px; border-radius: 10px; color: white;">
   <h2>🚀 Full Stack Developer | Security Enthusiast | Game Dev</h2>
 </div>
-
-------------------------------------------------------------------------------------
 
 💻 I'm currently studying Systems Analysis and Development (ADS) and I enjoy playing around with web development, always exploring new technologies and creating innovative projects. I've worked with PHP, MySQL, React, Firebase and Django, developing everything from shopping websites to scheduling systems and dashboards.
 
