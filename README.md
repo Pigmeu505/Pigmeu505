@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/Pigmeu505/Pigmeu505/main/header.svg" width="100%">
 Hi My name is Renan Ferro
 ===================================================================================================================================
 
