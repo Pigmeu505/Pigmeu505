@@ -3,17 +3,31 @@
 </div>
 ===================================================================================================================================
 
-<div align="center" style="background-color: #560bad; padding: 10px; border-radius: 10px; color: white;">
-  <h2>🚀 Full Stack Developer | Security Enthusiast | Game Dev</h2>
-</div>
+<h1 id="typed-text"></h1>
+
+<script>
+  const text = "Hi My name is Renan Ferro 🚀";
+  let index = 0;
+  
+  function typeEffect() {
+    if (index < text.length) {
+      document.getElementById("typed-text").innerHTML += text.charAt(index);
+      index++;
+      setTimeout(typeEffect, 100);
+    }
+  }
+
+  window.onload = typeEffect;
+</script>
+
 ------------------------------------------------------------------------------------
 
 💻 I'm currently studying Systems Analysis and Development (ADS) and I enjoy playing around with web development, always exploring new technologies and creating innovative projects. I've worked with PHP, MySQL, React, Firebase and Django, developing everything from shopping websites to scheduling systems and dashboards.
 
 🚀 In addition to development, I enjoy learning about cybersecurity and pentesting, and I'm also diving into the world of Unity and C# to create games. Outside of programming, I enjoy playing Valorant and watching movies and series to have fun!
 
-![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pigmeu505&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pigmeu505&layout=compact&theme=dracula)
+![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pigmeu505&show_icons=true&theme=tokyonight&hide_border=true&card_width=450)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pigmeu505&layout=compact&theme=tokyonight&hide_border=true&card_width=450)
 
 🔎 Always looking for challenges and new learning experiences!
 
