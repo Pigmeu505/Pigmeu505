@@ -1,14 +1,18 @@
-Hi My name is Renan Ferro
+<div align="center" style="background: linear-gradient(45deg, #ff00f6, #560bad, #00f2ff); padding: 20px; border-radius: 10px;">
+  <h1 style="color: white;">Hi My name is Renan Ferro 🚀</h1>
+</div>
 ===================================================================================================================================
 
-🚀 Full Stack Developer | Creator of innovative projects | Introduction to Databases
+<div align="center" style="background-color: #560bad; padding: 10px; border-radius: 10px; color: white;">
+  <h2>🚀 Full Stack Developer | Security Enthusiast | Game Dev</h2>
+</div>
 ------------------------------------------------------------------------------------
 
 💻 I'm currently studying Systems Analysis and Development (ADS) and I enjoy playing around with web development, always exploring new technologies and creating innovative projects. I've worked with PHP, MySQL, React, Firebase and Django, developing everything from shopping websites to scheduling systems and dashboards.
 
 🚀 In addition to development, I enjoy learning about cybersecurity and pentesting, and I'm also diving into the world of Unity and C# to create games. Outside of programming, I enjoy playing Valorant and watching movies and series to have fun!
 
-![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pigmeu505&show_icons=true&theme=dracula)
+![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pigmeu505&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pigmeu505&layout=compact&theme=dracula)
 
 🔎 Always looking for challenges and new learning experiences!
