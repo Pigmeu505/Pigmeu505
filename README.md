@@ -7,9 +7,6 @@
   <h2>🚀 Full Stack Developer | Security Enthusiast | Game Dev</h2>
 </div>
 
-  window.onload = typeEffect;
-</script>
-
 ------------------------------------------------------------------------------------
 
 💻 I'm currently studying Systems Analysis and Development (ADS) and I enjoy playing around with web development, always exploring new technologies and creating innovative projects. I've worked with PHP, MySQL, React, Firebase and Django, developing everything from shopping websites to scheduling systems and dashboards.
