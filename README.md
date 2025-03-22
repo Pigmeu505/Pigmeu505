@@ -3,19 +3,9 @@
 </div>
 ===================================================================================================================================
 
-<h1 id="typed-text"></h1>
-
-<script>
-  const text = "Hi My name is Renan Ferro 🚀";
-  let index = 0;
-  
-  function typeEffect() {
-    if (index < text.length) {
-      document.getElementById("typed-text").innerHTML += text.charAt(index);
-      index++;
-      setTimeout(typeEffect, 100);
-    }
-  }
+<div align="center" style="background-color: #560bad; padding: 10px; border-radius: 10px; color: white;">
+  <h2>🚀 Full Stack Developer | Security Enthusiast | Game Dev</h2>
+</div>
 
   window.onload = typeEffect;
 </script>
