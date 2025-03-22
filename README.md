@@ -1,10 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Renan Ferro
+Hi My name is Renan Ferro
 ===================================================================================================================================
 
 🚀 Full Stack Developer | Creator of innovative projects | Introduction to Databases
 ------------------------------------------------------------------------------------
 
-💻 I'm currently studying Systems Analysis and Development (ADS) and I enjoy playing around with web development, always exploring new technologies and creating innovative projects. I've worked with PHP, MySQL, React, Firebase and Django, developing everything from shopping websites to scheduling systems and dashboards. 🚀 In addition to development, I enjoy learning about cybersecurity and pentesting, and I'm also diving into the world of Unity and C# to create games. Outside of programming, I enjoy playing Valorant and watching movies and series to have fun! 🔎 Always looking for challenges and new learning experiences!
+💻 I'm currently studying Systems Analysis and Development (ADS) and I enjoy playing around with web development, always exploring new technologies and creating innovative projects. I've worked with PHP, MySQL, React, Firebase and Django, developing everything from shopping websites to scheduling systems and dashboards.
+
+🚀 In addition to development, I enjoy learning about cybersecurity and pentesting, and I'm also diving into the world of Unity and C# to create games. Outside of programming, I enjoy playing Valorant and watching movies and series to have fun!
+
+🔎 Always looking for challenges and new learning experiences!
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [rickferro505@gmail.com](mailto:rickferro505@gmail.com)
