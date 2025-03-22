@@ -8,15 +8,13 @@ Hi My name is Renan Ferro
 
 🚀 In addition to development, I enjoy learning about cybersecurity and pentesting, and I'm also diving into the world of Unity and C# to create games. Outside of programming, I enjoy playing Valorant and watching movies and series to have fun!
 
-🔎 Always looking for challenges and new learning experiences!
-
 ![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pigmeu505&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pigmeu505&layout=compact&theme=dracula)
 
+🔎 Always looking for challenges and new learning experiences!
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [rickferro505@gmail.com](mailto:rickferro505@gmail.com)
-* 🧠  I'm learning A little bit of everything
 * 🤝  I'm open to collaborating on Interesting projects to gain knowledge
 * ⚡  I'm creating a game in Unity
 
