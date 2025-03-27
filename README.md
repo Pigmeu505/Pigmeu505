@@ -1,4 +1,4 @@
-<img align="center" alt="" src="Texto do seu parágrafo (Apresentação).gif">
+<img align="center" alt="" src="Texto do seu parágrafo (Apresentação) (1).gif">
 
 <div align="center" style="background: linear-gradient(45deg, #ff00f6, #560bad, #00f2ff); padding: 20px; border-radius: 10px;">
   <h1 style="color: white;">Hi My name is Renan Ferro 🚀</h1>
