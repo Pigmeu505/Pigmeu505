@@ -1,4 +1,4 @@
-<img align="center" alt="" src="Texto do seu parágrafo (1347 x 382 px).gif">
+<img align="center" alt="" src="Texto do seu parágrafo (1347 x 382 px) (1).gif">
 
 <div align="center" style="background-color: #560bad; padding: 10px; border-radius: 10px; color: white;">
   <h2>🚀 Full Stack Developer | Security Enthusiast | Game Dev</h2>
