@@ -1,9 +1,5 @@
 <img align="center" alt="" src="Texto do seu parágrafo (1347 x 382 px).gif">
 
-<div align="center" style="background: linear-gradient(45deg, #ff00f6, #560bad, #00f2ff); padding: 20px; border-radius: 10px;">
-  <h1 style="color: white;">Hi My name is Renan Ferro 🚀</h1>
-</div>
-
 <div align="center" style="background-color: #560bad; padding: 10px; border-radius: 10px; color: white;">
   <h2>🚀 Full Stack Developer | Security Enthusiast | Game Dev</h2>
 </div>
